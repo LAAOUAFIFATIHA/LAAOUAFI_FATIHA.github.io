@@ -21,6 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
+  baseurl: /LAAOUAFI_FATIHA.github.io
+  baseurl: /LAAOUAFI_FATIHA.github.io
   avatar           : "{{ site.baseurl }}/images/me.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
