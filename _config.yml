@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   baseurl: /LAAOUAFI_FATIHA.github.io
-  avatar           : "/images/me.jpg"
+  avatar           : "images/bio-photo-2.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
